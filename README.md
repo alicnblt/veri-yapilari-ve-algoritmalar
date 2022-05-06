@@ -1,1 +1,0 @@
-"# veri-yapilari-ve-algoritmalar" 
